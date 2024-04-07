@@ -15,38 +15,56 @@
 #     - tag: Ruby
 #     - tag: Rails
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Linuxadministrator & Cloud Engineer
+  title-url: https://alldesign.de
+  date: März 2023 - Heute
+  subtitle: Freiberuflich
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Docker
+    - tag: Wordpress
+    - tag: SSL
+    - tag: DNS
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: Informatiker / Systemadministrator / Linux-Administrator
+  title-url: https://heinrich-schmidt-gruppe.de/
+  date: April 2018  - Juli 2021
+  subtitle: Heinrich Schmidt Holding
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: VMware VSphere
+    - tag: 110 Server
+    - tag: 1800 Clients
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Kaufmännischer Mitarbeiter in der Buchhaltung
+  title-url: https://web.archive.org/web/20161222085207/https://air-clean.gmbh/
+  date: September 2016 - Juni 2017
+  subtitle: A.C. Air-Clean GmbH
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Informatiker / Systemadministrator
+  title-url: https://www.css-bentlage.de/
+  date: Dezember 2012 - April 2014
+  subtitle: Computer Software Service
   tags:
+    - tag: externer Systemadministrator
+    - tag: Linux
+    - tag: Backup und VMware
+
+    - title: Informatiker / Systemadministrator
+  date: Januar 2010 -  Dezember 2011
+  subtitle: Selbstständiger IT-Berater
     - tag: React
     - tag: Node
     - tag: Javascript
+
+- title: Systemadministrator
+  title-url: https://awacs.nato.int/
+  date: Februar 2011  - November 2012
+  subtitle: DDO-DtA-Nato E3-A Verband
+  tags:
+    - tag: Active Directory
+    - tag: Windows 7 und Windows XP
+    - tag: Datenverschlüsselung
+
+
 
 - title: Super University
   title-url: https://example.com/

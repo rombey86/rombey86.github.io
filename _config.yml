@@ -58,9 +58,9 @@ skills_title: Skills
 
 # list of available skills
 skills_types:
-  - Environments
-  - Frameworks
-  - Tools
+  - environments
+  - frameworks
+  - tools
 
 ### TIMELINE SECTION ###
 

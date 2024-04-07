@@ -17,7 +17,7 @@
 - name: Node
   weight: 1
 
-- name: Flutter
+- name: Node.js
   weight: 2
 
 - name: Express

@@ -1,0 +1,39 @@
+# > name: Name of your skill
+# > weight: Describes how good you know this skill - values from 1 up to 5
+#
+# Example:
+# - name: Git
+#   weight: 5
+
+- name: Cloud Computing
+  weight: 5
+
+- name: Docker
+  weight: 4
+
+- name: Hyper-V
+  weight: 2
+
+- name: VMware VSphere
+  weight: 4
+
+- name: Proxmox
+  weight: 3
+
+- name: Debian/Ubuntu
+  weight: 5
+
+- name: Microsoft Azure
+  weight: 4
+
+- name: AWS
+  weight: 4
+
+  - name: Windows 3.11 - Windows 11
+  weight: 4
+
+  - name:  Windows Server 2003-20xx
+    weight: 4
+
+  - name:  MySQL
+      weight: 4
