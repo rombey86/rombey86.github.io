@@ -29,11 +29,11 @@
 - name: AWS
   weight: 4
 
-  - name: Windows 3.11 - Windows 11
+- name: Windows 3.11 - Windows 11
   weight: 4
 
-  - name:  Windows Server 2003-20xx
-    weight: 4
+- name:  Windows Server 2003-20xx
+  weight: 4
 
-  - name:  MySQL
-      weight: 4
+- name:  MySQL
+  weight: 4
