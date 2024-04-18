@@ -21,7 +21,7 @@
   weight: 3
 
 - name: Debian/Ubuntu
-  weight: 5
+  weight: 3
 
 - name: Microsoft Azure
   weight: 4
@@ -36,4 +36,4 @@
   weight: 4
 
 - name:  MySQL
-  weight: 4
+  weight: 3
