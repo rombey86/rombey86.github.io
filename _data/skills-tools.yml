@@ -26,7 +26,7 @@
 - name: Portainer
   weight: 4
 
-  - name: Docker Compose
+- name: Docker Compose
   weight: 4
 
 - name: Veeam Backup
