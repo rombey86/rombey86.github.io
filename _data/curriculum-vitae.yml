@@ -1,5 +1,5 @@
 - language: DE
-  link: \# # path to  cv example: ./assets/docs/cv_en.pdf
+  link: ./assets/docs/Lebenslauf.pdf # path to  cv example: ./assets/docs/Lebenslauf.pdf
 
 - language: FR
   link: \#
