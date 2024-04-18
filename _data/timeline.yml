@@ -48,9 +48,10 @@
     - tag: Linux
     - tag: Backup und VMware
 
-    - title: Informatiker / Systemadministrator
+- title: Informatiker / Systemadministrator
   date: Januar 2010 -  Dezember 2011
   subtitle: Freiberuflicher IT-Berater
+  tags:
     - tag: React
     - tag: Node
     - tag: Javascript
@@ -63,9 +64,7 @@
     - tag: Active Directory
     - tag: Windows 7 und Windows XP
     - tag: Data-Encryption
-
-
-
+    
 - title: Super University
   title-url: https://example.com/
   date: 2014 - 2017
