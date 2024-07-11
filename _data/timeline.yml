@@ -32,26 +32,29 @@
   subtitle: Heinrich Schmidt Holding
   tags:
     - tag: Optimierung der Hardware und Software, Insbesondere der Serverinfrastruktur
-    - tag: User Helpdesk
-    - tag: 110 Server
-    - tag: 1800 Clients
-    - tag: Betreuung und Konfiguration der Telefonanlage
     - tag: Virtualisierung und Containerisierung alter Server sowie vorhandener Netzwerkdienste und Unternehmenssoftware
+    - tag: User Helpdesk
+    - tag: 110 Server & 1800 Clients
+    - tag: Betreuung und Konfiguration der Telefonanlage
 
 - title: Kaufmännischer Mitarbeiter in der Buchhaltung
   title-url: https://web.archive.org/web/20161222085207/https://air-clean.gmbh/
   date: September 2016 - Juni 2017
   subtitle: A.C. Air-Clean GmbH
-
+  tags:
+    - tag: Optimierung der Hardware und Software, Insbesondere der Serverinfrastruktur
+    - tag: Betreuung und Konfiguration der Telefonanlage
+    - tag: Betreuung des Webauftritt
+    
 - title: Informatiker / Systemadministrator
   title-url: https://www.css-bentlage.de/
   date: Dezember 2012 - April 2014
   subtitle: Computer Software Service
   tags:
-    - tag: externer Systemadministrator
-    - tag: Linux
-    - tag: Backup und VMware
-
+    - tag: Systemadministrator als externer Dienstleister
+    - tag: Linux, Erstellung individueller Software und Netzwerkdienste
+    - tag: Einrichten und Verwalten verschiedenster Unternehmenssoftware bei mittelständischen Unternehmen
+    
 - title: Informatiker / Systemadministrator
   date: Januar 2010 -  Dezember 2011
   subtitle: Freiberuflicher IT-Berater
