@@ -15,7 +15,7 @@
 
 - name: IT News Blog
   descr: "Aktuelle News und Insights für IT-Enthusiasten"
-  demo: https://www.it-live-blog.com
+ # demo: https://example.com/
   tags:
     - tag: Static
     - tag: Headless CMS
@@ -24,7 +24,7 @@
 
 - name: Bulk-Migrations-Software
   descr: "Entwicklung einer Bulk-Migrations-Software um bestehende legacy Wordpress Website Instanzen in eine Containerumgebung zu migrieren"
-  demo: https://example.com/
+  #demo: https://example.com/
   tags:
     - tag: Python
     - tag: Bash
