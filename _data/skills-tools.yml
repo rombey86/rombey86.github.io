@@ -8,19 +8,19 @@
   weight: 2
 
 - name: VS Code
-  weight: 3
+  weight: 2
 
 - name: Postman
   weight: 4
 
 - name: Portainer
-  weight: 4
+  weight: 3
 
 - name: Docker Compose
-  weight: 4
+  weight: 3
 
 - name: Veeam Backup
-  weight: 4
+  weight: 3
 
 - name:  MySQL
   weight: 4
@@ -32,7 +32,7 @@
   weight: 2
 
 - name: Identity Management
-  weight: 2
+  weight: 3
 
 - name: Backup/Bareos
   weight: 4
@@ -40,14 +40,17 @@
 - name: Nginx / Reverse Proxy
   weight: 4
 
-- name: Networking / TCP/IP
+- name: Networking
   weight: 4
 
 - name: Monitoring
   weight: 2
 
-- name: IT Security / Firewall
+- name: IT Security
   weight: 4
 
+- name: Firewall
+  weight: 2
+  
 - name: Ansible
   weight: 3
