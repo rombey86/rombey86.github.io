@@ -29,20 +29,5 @@
 - name:  Windows Server 2003-20xx
   weight: 4
 
-- name:  MySQL
+- name:  Kubernetes
   weight: 3
-
-- name: Samba
-  weight: 4
-
-- name: Git
-  weight: 2
-
-- name: Identity Management
-  weight: 2
-
-- name: Backup/Bareos
-  weight: 3
-
-- name: Monitoring
-  weight: 2
