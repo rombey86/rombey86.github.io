@@ -37,6 +37,17 @@
 - name: Backup/Bareos
   weight: 4
 
+- name: Nginx / Reverse Proxy
+  weight: 4
+
+- name: Networking / TCP/IP
+  weight: 4
+
 - name: Monitoring
   weight: 2
 
+- name: IT Security / Firewall
+  weight: 4
+
+- name: Ansible
+  weight: 3
