@@ -4,13 +4,6 @@
 # Example:
 # - name: Git
 #   weight: 5
-
-- name: Bash
-  weight: 3
-
-- name: Chrome DevTools
-  weight: 2
-
 - name: npm
   weight: 2
 
@@ -30,7 +23,7 @@
   weight: 4
 
 - name:  MySQL
-  weight: 3
+  weight: 4
 
 - name: Samba
   weight: 4
@@ -42,7 +35,7 @@
   weight: 2
 
 - name: Backup/Bareos
-  weight: 3
+  weight: 4
 
 - name: Monitoring
   weight: 2
