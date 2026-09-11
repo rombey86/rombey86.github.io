@@ -1,18 +1,11 @@
-# > name: Name of your skill
-# > weight: Describes how good you know this skill - values from 1 up to 5
-#
-# Example:
-# - name: Git
-#   weight: 5
-
 - name: Angular
-  weight: 3
+  weight: 1
 
 - name: AngularJS
-  weight: 2
+  weight: 1
 
 - name: React
-  weight: 4
+  weight: 3
 
 - name: Node
   weight: 3
@@ -21,7 +14,7 @@
   weight: 3
 
 - name: Express
-  weight: 2
+  weight: 1
 
 - name: Django
   weight: 1
