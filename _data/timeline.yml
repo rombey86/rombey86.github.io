@@ -1,77 +1,158 @@
-# > title: Name of your timeline entry, university or work place
-# > title-url: Link to your timeline entry, university or work place
-# > date: Time span
-# > subtitle: The description under the title
-# > tags: List of tags you want to associate with the entry
-
-# Example of a timeline entry
-# - title: airbnb
-#   title-url: https://example.com/
-#   date: Sep 2019 - Present
-#   subtitle: Fullstack Developer
-#   tags:
-#     - tag: React
-#     - tag: Javascript
-#     - tag: Ruby
-#     - tag: Rails
-
-- title: Linuxadministrator & Cloud Engineer
+- title: Linux Administrator
   title-url: https://byteknights.de
-  date: März 2023 - Heute
-  subtitle: Freiberuflich
+  date: April 2026 - Heute
+  subtitle: ByteKnights | Mönchengladbach
   tags:
-    - tag: Docker
     - tag: Linux
+    - tag: Docker
+    - tag: Server
+    - tag: IT-Infrastruktur
+    - tag: Backups
+    - tag: Cloud-Dienste
+
+- title: Linux Administrator
+  date: Januar 2026 - April 2026
+  subtitle: CamData | Mönchengladbach
+  tags:
+    - tag: Linux
+    - tag: Windows
+    - tag: Univention Corporate Server
+    - tag: Samba
     - tag: DNS
-    - tag: SSL
+    - tag: Mail-Infrastruktur
+    - tag: KVM
+    - tag: VMware
+    - tag: CheckMK
+    - tag: Backup
+
+- title: Linux Administrator
+  date: Juli 2021 - Januar 2026
+  subtitle: Freiberufliche Tätigkeit | Mönchengladbach
+  tags:
+    - tag: Linux
+    - tag: Windows
+    - tag: Docker
+    - tag: Cloud
+    - tag: Serveradministration
     - tag: IT-Security
+    - tag: Webentwicklung
+    - tag: Open Source
+    - tag: Smart Home
+
+- title: Website Betreiber
+  title-url: https://it-live-blog.com
+  date: April 2023 - Januar 2024
+  subtitle: IT-Live-Blog | Mönchengladbach
+  tags:
+    - tag: Webentwicklung
+    - tag: Linux
+    - tag: Open Source
+    - tag: IT
 
 - title: Informatiker / Systemadministrator / Linux-Administrator
   title-url: https://heinrich-schmidt-gruppe.de/
-  date: April 2018  - Juli 2021
-  subtitle: Heinrich Schmidt Holding
+  date: April 2018 - Juni 2021
+  subtitle: Heinrich Schmidt Holding | Mönchengladbach
   tags:
-    - tag: Optimierung der Hardware und Software, Insbesondere der Serverinfrastruktur
-    - tag: Virtualisierung und Containerisierung alter Server sowie vorhandener Netzwerkdienste und Unternehmenssoftware
-    - tag: User Helpdesk
-    - tag: 110 Server & 1800 Clients
-    - tag: Betreuung und Konfiguration der Telefonanlage
+    - tag: Docker
+    - tag: Linux
+    - tag: Windows Server
+    - tag: Active Directory
+    - tag: DNS
+    - tag: Proxy
+    - tag: VMware vSphere
+    - tag: Mail-Server
+    - tag: Jitsi
+    - tag: MariaDB
+    - tag: MSSQL
+    - tag: MySQL
+    - tag: Caché
+    - tag: Qlik Sense
+    - tag: 80 Linux-Server
+    - tag: 120 Standorte
 
-- title: Kaufmännischer Mitarbeiter in der Buchhaltung
+- title: Kaufmännischer Mitarbeiter / Online Marketing
   title-url: https://web.archive.org/web/20161222085207/https://air-clean.gmbh/
-  date: September 2016 - Juni 2017
-  subtitle: A.C. Air-Clean GmbH
+  date: September 2016 - Juli 2017
+  subtitle: A.C. Air-Clean GmbH | Mönchengladbach
   tags:
-    - tag: Betreuung und Konfiguration der Telefonanlage
-    - tag: Betreuung des Webauftritt
-    
+    - tag: Buchhaltung
+    - tag: Online Marketing
+    - tag: ERP
+    - tag: Unified Communications
+    - tag: Linux
+
+- title: Selbstständiger IT-Berater
+  date: Mai 2014 - August 2016
+  subtitle: Netzwerk- und Serverlösungen
+  tags:
+    - tag: Netzwerkadministration
+    - tag: Serveradministration
+    - tag: Linux
+    - tag: Windows
+    - tag: IT-Beratung
+    - tag: IT-Systemintegration
+
 - title: Informatiker / Systemadministrator
   title-url: https://www.css-bentlage.de/
   date: Dezember 2012 - April 2014
-  subtitle: Computer Software Service
+  subtitle: Computer Software Service Bentlage | Krefeld
   tags:
-    - tag: Systemadministrator als externer Dienstleister
-    - tag: Linux, Erstellung individueller Software und Netzwerkdienste
-    - tag: Einrichten und Verwalten verschiedenster Unternehmenssoftware bei mittelständischen Unternehmen
-    
-- title: Informatiker / Systemadministrator
-  date: Januar 2010 -  Dezember 2011
-  subtitle: Freiberuflicher IT-Berater
-  tags:
-    - tag: Active Directory
-    - tag: Windows 7 und Windows XP
-    - tag: Backups
+    - tag: IT-Systemintegration
+    - tag: Linux
+    - tag: Serveradministration
+    - tag: Webdesign
+    - tag: VoIP
+    - tag: Datenrettung
+    - tag: Serversicherung
+    - tag: CAD-Software
+    - tag: Workstations
 
-- title: Systemadministrator
+- title: Selbstständiger IT-Berater
+  date: Februar 2012 - November 2012
+  subtitle: Netzwerk- und Serverlösungen
+  tags:
+    - tag: Netzwerkadministration
+    - tag: Serveradministration
+    - tag: IT-Beratung
+    - tag: IT-Systemintegration
+
+- title: Systemadministrator / IT-Soldat
   title-url: https://awacs.nato.int/
-  date: Februar 2011  - November 2012
-  subtitle: DDO-DtA-Nato E3-A Verband
+  date: Januar 2010 - Dezember 2011
+  subtitle: DDO-DtA-NATO E3-A Verband | Geilenkirchen
   tags:
     - tag: Active Directory
-    - tag: Windows 7 und Windows XP
-    - tag: Data-Encryption
-    
-- title: Hochschule Niederrhein
-  title-url: https://www.hs-niederrhein.de/
-  date: Oktober 2006 - Dezember 2009
-  subtitle: Studium Informatik
+    - tag: Windows Server 2003
+    - tag: Windows Server 2008
+    - tag: DHCP
+    - tag: DNS
+    - tag: WSUS
+    - tag: Lotus Notes
+    - tag: Backup
+    - tag: TCP/IP
+    - tag: Subnetting
+    - tag: Routing
+    - tag: UNIX
+    - tag: User Help Desk
+    - tag: 200 Clients
+    - tag: 7 Server
+    - tag: 700 Nutzer
+
+- title: Kaufmännischer Angestellter / Ausbilder
+  date: Februar 2009 - Februar 2011
+  subtitle: Land24 / Raiffeisen-Markt | Niederkrüchten
+  tags:
+    - tag: Beratung
+    - tag: Vertrieb
+    - tag: Ausbildung neuer Mitarbeiter
+    - tag: Kundenbetreuung
+
+- title: Kaufmännischer Angestellter
+  date: Februar 2005 - Februar 2009
+  subtitle: Geschenke Rombey | Niederkrüchten
+  tags:
+    - tag: Beratung
+    - tag: Vertrieb
+    - tag: Kundenbetreuung
+    - tag: EDV
