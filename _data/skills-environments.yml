@@ -23,12 +23,6 @@
 - name: Debian/Ubuntu
   weight: 3
 
-- name: Microsoft Azure
-  weight: 4
-
-- name: AWS
-  weight: 4
-
 - name: Windows 3.11 - Windows 11
   weight: 4
 
@@ -37,3 +31,18 @@
 
 - name:  MySQL
   weight: 3
+
+- name: Samba
+  weight: 4
+
+- name: Git
+  weight: 2
+
+- name: Identity Management
+  weight: 2
+
+- name: Backup/Bareos
+  weight: 3
+
+- name: Monitoring
+  weight: 2
