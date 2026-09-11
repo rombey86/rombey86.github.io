@@ -12,7 +12,15 @@
 #     - tag: Express
 #     - tag: AngularJS
 #     - tag: Node
-
+- name: Byteknights
+  descr: "Aktuelle News und Insights für IT-Enthusiasten"
+  demo: https://byteknights.de
+  tags:
+    - tag: B2B-Infrastrukturen
+    - tag: Container-Cluster
+    - tag: Linux-Server
+    - tag: Server Hardening
+    
 - name: IT News Blog
   descr: "Aktuelle News und Insights für IT-Enthusiasten"
  # demo: https://example.com/
