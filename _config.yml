@@ -2,8 +2,7 @@
 
 ### GENERAL SITE SETTINGS ###
 # title: This will be displayed as the website's name in your browser tab.
-title: Tobias Rombey - Systemadministrator
-
+title: Tobias Rombey - Linux Administrator
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 
@@ -18,7 +17,7 @@ username: Tobias Rombey
 
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Systemadministrator
+typing_text: Linux Administrator
 # email: Your E-Mail address for the email button.
 email: rombey86@googlemail.com
 
